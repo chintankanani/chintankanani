@@ -46,5 +46,5 @@ Created interactive dashboards to monitor KPIs and support business decision-mak
 
 ## Connect With Me
 
-* LinkedIn: [Add your LinkedIn URL]
-* Email: [Add your Email]
+* LinkedIn: https://www.linkedin.com/in/ckkanani/
+* Email: ckkanani2510@gmail.com
