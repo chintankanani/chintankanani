@@ -19,7 +19,6 @@ My background combines analytics, retail operations, and e-commerce, allowing me
 
 ## Featured Projects
 
-
 ### Retail Sales Analysis
 
 Analyzed sales trends, product performance, and customer behavior to identify business opportunities.
