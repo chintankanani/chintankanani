@@ -17,20 +17,6 @@ My background combines analytics, retail operations, and e-commerce, allowing me
 * Dashboard Development
 * Statistical Analysis
 
-## Featured Projects
-
-### Retail Sales Analysis
-
-Analyzed sales trends, product performance, and customer behavior to identify business opportunities.
-
-### Electricity Demand Forecasting
-
-Built predictive models using Multiple Linear Regression and Random Forest algorithms.
-
-### Power BI Business Dashboard
-
-Created interactive dashboards to monitor KPIs and support business decision-making.
-
 ## Experience
 
 * Woolworths New Zealand – Replenishment Team Member
