@@ -32,7 +32,6 @@ My background combines analytics, retail operations, and e-commerce, allowing me
 ## Featured Projects
 
 - **Power BI Sales & Business Performance Analysis**
-- **Retail Sales Forecasting using ARIMA**
 - **Electricity Demand Forecasting using Multiple Linear Regression**
 
 ## Connect With Me
