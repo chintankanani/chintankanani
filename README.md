@@ -20,7 +20,7 @@ My background combines analytics, retail operations, and e-commerce, allowing me
 ## Experience
 
 - **Woolworths New Zealand** — Replenishment Team Member
-- **E-commerce Business** — Business Owner
+- **E-commerce Business** — Founder
 
 ## Currently Interested In
 
@@ -31,6 +31,8 @@ My background combines analytics, retail operations, and e-commerce, allowing me
 
 ## Featured Projects
 
+- **SQL Exploratory Data Analysis and Advanced Analytics**
+- **SQL Data Warehouse Project**
 - **Power BI Sales & Business Performance Analysis**
 - **Electricity Demand Forecasting using Multiple Linear Regression**
 
